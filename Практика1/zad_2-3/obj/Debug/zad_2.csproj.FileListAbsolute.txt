@@ -1,0 +1,21 @@
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\bin\Debug\zad_2.exe.config
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\bin\Debug\zad_2.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\bin\Debug\zad_2.pdb
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\obj\Debug\zad_2.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\obj\Debug\zad_2.Form1.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\obj\Debug\zad_2.Properties.Resources.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\obj\Debug\zad_2.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\obj\Debug\zad_2.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\obj\Debug\zad_2.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\Практика\Практика1\zad_2\obj\Debug\zad_2.pdb
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\bin\Debug\zad_2.exe.config
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\bin\Debug\zad_2.exe
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\bin\Debug\zad_2.pdb
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\obj\Debug\zad_2.csproj.AssemblyReference.cache
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\obj\Debug\zad_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\obj\Debug\zad_2.Form1.resources
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\obj\Debug\zad_2.Properties.Resources.resources
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\obj\Debug\zad_2.csproj.GenerateResource.cache
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\obj\Debug\zad_2.csproj.CoreCompileInputs.cache
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\obj\Debug\zad_2.exe
+C:\Users\shurk\Desktop\Works\Практика1\zad_2\obj\Debug\zad_2.pdb
